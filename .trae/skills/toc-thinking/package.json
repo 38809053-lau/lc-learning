@@ -1,0 +1,7 @@
+{
+  "name": "toc-thinking",
+  "version": "1.0.0",
+  "description": "TOC清晰思考技能 - 基于制约理论的五步思考流程",
+  "entry": "index.ts",
+  "dependencies": {}
+}
